@@ -1,0 +1,22 @@
+{
+  "name": "homesearch",
+  "version": "1.0.0",
+  "description": "Home search website ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kennyl24/Homesearch.git"
+  },
+  "author": "Kenneth Laprelle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kennyl24/Homesearch/issues"
+  },
+  "homepage": "https://github.com/Kennyl24/Homesearch#readme",
+  "dependencies": {
+    "react": "^16.8.6"
+  }
+}
